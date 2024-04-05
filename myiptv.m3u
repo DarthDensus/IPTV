@@ -1,0 +1,500 @@
+﻿#EXTM3U
+#EXTINF:-1,++++++++++++++++Rumänische Sender++++++++++++++++
+#Rumänische Sender
+#EXTINF:-1 tvg-id="AgroTV.ro":http-referrer="":http-user-agent="",AgroTV (404p) [Not 24/7]
+https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroTV.ro":http-referrer="":http-user-agent="",AgroTV (360p) [Not 24/7]
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-id="AlephBusiness.ro":http-referrer="":http-user-agent="",Aleph Business (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlephNews.ro":http-referrer="":http-user-agent="",Aleph News (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro":http-referrer="":http-user-agent="",Alfa Omega TV (720p) [Not 24/7]
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro":http-referrer="":http-user-agent="",Alfa Omega TV (720p) [Not 24/7]
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelusTV.ro":http-referrer="":http-user-agent="",Angelus TV (720p)
+https://transmisiuni.ro/media/oracatolica/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro":http-referrer="":http-user-agent="",Antena 1 (1080p)
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+#EXTINF:-1 tvg-id="AntenaMonden.ro":http-referrer="":http-user-agent="",Antena Monden (720p)
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaSport.ro":http-referrer="":http-user-agent="",AntenaSport (720p) [Not 24/7]
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 tvg-id="ArcadiaTelevision.ro":http-referrer="":http-user-agent="",Arcadia Television (1080p) [Not 24/7]
+https://office.softer.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ArdealTV.ro":http-referrer="":http-user-agent="",Ardeal TV (480p)
+https://frn.rtsp.me/wzhx8pmNF7-kstp_J0AdjA/1695647213/hls/yZ9ED27Q.m3u8
+#EXTINF:-1 tvg-id="ArgesTV.ro":http-referrer="":http-user-agent="",Arges TV (720p)
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro":http-referrer="":http-user-agent="",Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-id="AtomicTV.ro":http-referrer="":http-user-agent="",Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-id="BanatTV.ro":http-referrer="":http-user-agent="",Banat TV (720p)
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 tvg-id="BollywoodClassic.ro":http-referrer="":http-user-agent="",Bollywood Classic (1080p)
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ro":http-referrer="":http-user-agent="",Bollywood HD (1080p)
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+#EXTINF:-1 tvg-id="BucovinaTV.ro":http-referrer="":http-user-agent="",Bucovina TV (480p) [Not 24/7]
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalD.ro":http-referrer="":http-user-agent="",Canal D Romania (480p)
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-id="CardioTVSRC.ro":http-referrer="":http-user-agent="",Cardio TV SRC (720p)
+https://5947cbf6e693a.streamlock.net/live/play2/playlist.m3u8
+#EXTINF:-1 tvg-id="CaTine.ro":http-referrer="":http-user-agent="",CaTine (720p)
+https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
+#EXTINF:-1 tvg-id="ColumnaTV.ro":http-referrer="":http-user-agent="",Columna TV (720p)
+http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyPlay.ro":http-referrer="":http-user-agent="",Comedy Play (720p)
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:-1 tvg-id="CredoTV.ro":http-referrer="":http-user-agent="",Credo TV (720p) [Not 24/7]
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro":http-referrer="":http-user-agent="",Digi 24 (576p)
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-id="DottoTV.ro":http-referrer="":http-user-agent="",Dotto TV (720p)
+https://dotto.edvr.ro/live/index.m3u8
+#EXTINF:-1 tvg-id="TVSE.ro":http-referrer="":http-user-agent="",Exploris (576p) [Not 24/7]
+http://89.38.8.130:39419
+#EXTINF:-1 tvg-id="HelloTaste.ro":http-referrer="":http-user-agent="",Hello Taste (720p)
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactTVDance.ro":http-referrer="":http-user-agent="",Impact TV Dance (1080p)
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-id="ImpactTVManele.ro":http-referrer="":http-user-agent="",Impact TV Manele (1080p)
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-id="InfoTVRomania.ro":http-referrer="":http-user-agent="",Info TV România (1080p)
+https://vmi347009.contaboserver.net/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="IntermediaTV.ro":http-referrer="":http-user-agent="",Intermedia TV (576p) [Not 24/7]
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:-1 tvg-id="IntermediaTV.ro":http-referrer="":http-user-agent="",Intermedia TV (576p) [Not 24/7]
+http://83.103.150.198:8080
+#EXTINF:-1 tvg-id="KanalD2.ro":http-referrer="":http-user-agent="",Kanal D2 (360p)
+https://stream2.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-id="KanalD.ro":http-referrer="":http-user-agent="",Kanal D Romania (360p)
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-id="KissTV.ro":http-referrer="":http-user-agent="",Kiss TV (1080p)
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="LightChannel.ro":http-referrer="":http-user-agent="",Light Channel (480p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="LiraTV.es":http-referrer="":http-user-agent="",LiraTV (720p)
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicTV.ro":http-referrer="":http-user-agent="",Magic TV (720p)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 tvg-id="MediCOOLTV.ro":http-referrer="":http-user-agent="",MediCOOL TV (720p)
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mireasa.ro":http-referrer="":http-user-agent="",Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-id="MoozDance.ro":http-referrer="https://mooz.tv/live-ro/#MoozDance":http-user-agent="",MoozDance (576p)
+#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-id="MoozHits.ro":http-referrer="https://mooz.tv/live-ro/#MoozHits":http-user-agent="",MoozHits (576p)
+#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-id="MoozRo.ro":http-referrer="https://mooz.tv/live-ro/#MoozRo":http-user-agent="",MoozRo (576p)
+#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozRo
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="NovaTVBrasov.ro":http-referrer="":http-user-agent="",Nova TV Brasov (576p) [Not 24/7]
+http://novapress.ro:2022/live/nova/playlist.m3u8
+#EXTINF:-1 tvg-id="ObservatorNews.ro":http-referrer="":http-user-agent="",Observator News (720p)
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-id="PloiestiTV.ro":http-referrer="":http-user-agent="",Ploiesti TV (1080p)
+https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.ro":http-referrer="":http-user-agent="",Prima TV (404p) [Not 24/7]
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PROTVNews.ro":http-referrer="":http-user-agent="",Pro TV News (1080p)
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PROFI24TV.ro":http-referrer="":http-user-agent="",PROFI 24 TV (576p)
+https://profi24-u3391.vm.elestio.app/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ProfitNews.ro":http-referrer="":http-user-agent="",Profit News (404p)
+https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ProfitNews.ro":http-referrer="":http-user-agent="",Profit News (404p) [Not 24/7]
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="QubTV.ro":http-referrer="":http-user-agent="",Qub TV (720p)
+https://live.djemba.ro/live/qubtvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="RapsodiaTV.ro":http-referrer="":http-user-agent="",Rapsodia TV (576p)
+http://92.86.248.141:8080/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro":http-referrer="":http-user-agent="",Rock TV (720p)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro":http-referrer="https://www.romaniatv.net/live":http-user-agent="",Romania TV (576p)
+#EXTVLCOPT:http-referrer=https://www.romaniatv.net/live
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ROTVValencia.es":http-referrer="":http-user-agent="",ROTV Valencia (720p)
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 tvg-id="SmartTV.ro":http-referrer="":http-user-agent="",Smart TV (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SperantaTV.ro":http-referrer="":http-user-agent="",Speranta TV (1080p)
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923610a55c/manifest/video.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ro":http-referrer="":http-user-agent="",Super TV (576p)
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="Tele7ABCHD.ro":http-referrer="":http-user-agent="",Tele7ABC HD (720p)
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="Tele7music.ro":http-referrer="":http-user-agent="",Tele7music (720p)
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TeleMBotosani.ro":http-referrer="":http-user-agent="",TeleM Botosani (540p) [Not 24/7]
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="Telestar1.ro":http-referrer="":http-user-agent="",Telestar1 (360p) [Not 24/7]
+http://89.47.97.15/telestar/telestar.m3u8
+#EXTINF:-1 tvg-id="TraditionalTV.ro":http-referrer="":http-user-agent="",Traditional TV (1080p)
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1 tvg-id="TVArad.ro":http-referrer="":http-user-agent="",TV Arad (720p)
+https://live.djemba.ro/live/tvaradlive/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBuzau.ro":http-referrer="":http-user-agent="",TV Buzau (576p)
+http://95.77.16.67:8080
+#EXTINF:-1 tvg-id="TVSUD.ro":http-referrer="":http-user-agent="",TV SUD (576p)
+https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro":http-referrer="":http-user-agent="",TVPlus Suceava (576p)
+http://85.186.146.34:8080
+#EXTINF:-1 tvg-id="TVSat.ro":http-referrer="":http-user-agent="",TVSat (576p) [Not 24/7]
+http://89.38.8.130:39443
+#EXTINF:-1 tvg-id="Antena3CNN.ro":http-referrer="":http-user-agent="",Antena 3 CNN
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1,++++++++++++++++Rumänische Sender++++++++++++++++
+#Türkische Sender
+#EXTINF:-1 tvg-id="24TV.tr":http-referrer="":http-user-agent="",24 TV
+https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+#EXTINF:-1 tvg-id="24TV.tr":http-referrer="":http-user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",24 TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360.tr":http-referrer="":http-user-agent="",360 TV (720p) [Not 24/7]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="4UTV.tr":http-referrer="":http-user-agent="",4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ATurk.tr":http-referrer="":http-user-agent="",A Türk Izmir (360p)
+https://vdo.digitalbox.xyz:3807/stream/play.m3u8
+#EXTINF:-1 tvg-id="AnadoluAgency.tr":http-referrer="":http-user-agent="",AA Live (720p) [Not 24/7]
+https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroTV.tr":http-referrer="":http-user-agent="",Agro TV (1080p)
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AkitTV.tr":http-referrer="":http-user-agent="",Akit TV (720p)
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-id="AksuTV.tr":http-referrer="":http-user-agent="",Aksu TV (720p)
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlZahraTVTurkic.tr":http-referrer="":http-user-agent="",Al-Zahra TV Turkic (720p) [Not 24/7]
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AltasTV.tr":http-referrer="":http-user-agent="",ALTAS TV (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="ArasTV.tr":http-referrer="":http-user-agent="",ARAS TV (576p) [Not 24/7]
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BenguturkTV.tr":http-referrer="":http-user-agent="",BENGÜTÜRK TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="BeratTV.tr":http-referrer="":http-user-agent="",Berat TV (720p) [Not 24/7]
+https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+#EXTINF:-1 tvg-id="BesiktasWebTV.tr":http-referrer="":http-user-agent="",Beşiktaş Web TV (360p)
+https://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1 tvg-id="BeykentTV.tr":http-referrer="":http-user-agent="",Beykent TV (720p)
+https://yayin30.haber100.com/live/beykenttv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr":http-referrer="":http-user-agent="",Bloomberg HT
+https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr":http-referrer="":http-user-agent="",Bloomberg HT (720p) [Not 24/7]
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="BRTV.tr":http-referrer="":http-user-agent="",BRTV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ASTV.tr":http-referrer="":http-user-agent="",Bursa AS TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="CanTV.tr":http-referrer="":http-user-agent="",Can TV (720p)
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 tvg-id="CayTV.tr":http-referrer="":http-user-agent="",Cay TV (720p) [Not 24/7]
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 tvg-id="CekmekoyTV.tr":http-referrer="":http-user-agent="",Cekmeköy TV (1080p)
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
+#EXTINF:-1 tvg-id="CekmekoyTV.tr":http-referrer="":http-user-agent="",Cekmeköy TV (1080p)
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="CiftciTV.tr":http-referrer="":http-user-agent="",Çiftçi TV (1080p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CiftciTV.tr":http-referrer="":http-user-agent="",Çiftçi TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine5.tr":http-referrer="":http-user-agent="",Cine5 (720p)
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr":http-referrer="":http-user-agent="",CNN Türk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="DehaTV.tr":http-referrer="":http-user-agent="",Deha TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DenizPostasiTV.tr":http-referrer="":http-user-agent="",Deniz Postası TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 tvg-id="DHA.tr":http-referrer="":http-user-agent="",DHA (720p) [Not 24/7]
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-id="DimTV.tr":http-referrer="":http-user-agent="",DİM TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DiyanetTV.tr":http-referrer="":http-user-agent="",Diyanet TV (1080p)
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DiyarTV.tr":http-referrer="":http-user-agent="",Diyar TV (1080p)
+https://yayin30.haber100.com/live/diyartv/playlist.m3u8
+#EXTINF:-1 tvg-id="DostTV.tr":http-referrer="":http-user-agent="",Dost TV (576p)
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr":http-referrer="":http-user-agent="",Dream Türk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="DRTDenizli.tr":http-referrer="":http-user-agent="",DRT Denizli (720p)
+https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="EdessaTV.tr":http-referrer="":http-user-agent="",Edessa TV (720p)
+https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
+#EXTINF:-1 tvg-id="Ekoturk.tr":http-referrer="":http-user-agent="",Ekoturk
+https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
+#EXTINF:-1 tvg-id="EmTV.tr":http-referrer="":http-user-agent="",Em TV (486p)
+https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="ESTV.tr":http-referrer="":http-user-agent="",ES TV (720p)
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr":http-referrer="":http-user-agent="",Euro D (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="FortunaTV.tr":http-referrer="":http-user-agent="",Fortuna TV (720p)
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.tr":http-referrer="":http-user-agent="",Fox Türkiye (720p)
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 tvg-id="GoncaTV.tr":http-referrer="":http-user-agent="",Gonca TV (720p)
+https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="GrandCinema.tr":http-referrer="":http-user-agent="",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GRT.tr":http-referrer="":http-user-agent="",GRT (720p)
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
+#EXTINF:-1 tvg-id="GSTV.tr":http-referrer="":http-user-agent="",GSTV [Geo-blocked]
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Haber61TV.tr":http-referrer="":http-user-agent="",Haber61 TV (720p) [Not 24/7]
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 tvg-id="Haber61TV.tr":http-referrer="":http-user-agent="",Haber61 TV (720p) [Not 24/7]
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr":http-referrer="":http-user-agent="",Haber Global
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr":http-referrer="":http-user-agent="",Haber Global (720p) [Not 24/7]
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr":http-referrer="":http-user-agent="",Habertürk TV (720p)
+https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr":http-referrer="":http-user-agent="",Habertürk TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr":http-referrer="":http-user-agent="",Halk TV (720p)
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:-1 tvg-id="HelwaTV.tr":http-referrer="":http-user-agent="",Helwa TV (1080p)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8
+#EXTINF:-1 tvg-id="HunatTV.tr":http-referrer="":http-user-agent="",Hunat TV (480p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 tvg-id="IBBTV.tr":http-referrer="":http-user-agent="",IBB TV (1080p)
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal3.tr":http-referrer="":http-user-agent="",Kanal 3 (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr":http-referrer="":http-user-agent="",Kanal 7 (1080p) [Not 24/7]
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr":http-referrer="":http-user-agent="",Kanal 7 (720p)
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+#EXTINF:-1 tvg-id="Kanal12.tr":http-referrer="":http-user-agent="",Kanal 12 (1080p)
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal15.tr":http-referrer="":http-user-agent="",Kanal 15 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal23.tr":http-referrer="":http-user-agent="",Kanal 23 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal26.tr":http-referrer="":http-user-agent="",Kanal 26 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal32.tr":http-referrer="":http-user-agent="",Kanal 32 (720p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal33.tr":http-referrer="":http-user-agent="",Kanal 33 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal34.tr":http-referrer="":http-user-agent="",Kanal 34 (720p) [Not 24/7]
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
+#EXTINF:-1 tvg-id="Kanal68.tr":http-referrer="":http-user-agent="",Kanal 68 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
+#EXTINF:-1 tvg-id="":http-referrer="":http-user-agent="",Kanal Antalya (720p)
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr":http-referrer="":http-user-agent="",Kanal D (1080p)
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="KanalDDrama.tr":http-referrer="":http-user-agent="",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalFirat.tr":http-referrer="":http-user-agent="",Kanal Firat (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalHayat.tr":http-referrer="":http-user-agent="",Kanal Hayat (1080p)
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
+#EXTINF:-1 tvg-id="KanalS.tr":http-referrer="":http-user-agent="",Kanal S (720p)
+https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalZ.tr":http-referrer="":http-user-agent="",Kanal Z (1080p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
+#EXTINF:-1 tvg-id="KardelenTV.tr":http-referrer="":http-user-agent="",Kardelen TV (1080p)
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="KayTV.tr":http-referrer="":http-user-agent="",Kay TV (576p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+#EXTINF:-1 tvg-id="KentTurk.tr":http-referrer="":http-user-agent="",Kent Türk (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8
+#EXTINF:-1 tvg-id="KralPopTV.tr":http-referrer="":http-user-agent="",KRAL Pop TV (720p)
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="KRT.tr":http-referrer="":http-user-agent="",KRT (720p)
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1 tvg-id="KudusTV.tr":http-referrer="":http-user-agent="",Kudüs TV (480p) [Geo-blocked]
+https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
+#EXTINF:-1 tvg-id="LalegulTV.tr":http-referrer="":http-user-agent="",Lalegül TV (720p) [Not 24/7]
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-id="LalegulTV.tr":http-referrer="":http-user-agent="",Lalegül TV (720p) [Not 24/7]
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LifeTV.tr":http-referrer="":http-user-agent="",Life TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaviKaradenizTV.tr":http-referrer="":http-user-agent="",MaviKaradeniz (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 tvg-id="MercanTV.tr":http-referrer="":http-user-agent="",Mercan TV (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="MilyonTV.tr":http-referrer="":http-user-agent="",Milyon TV (720p)
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1 tvg-id="NTV.tr":http-referrer="":http-user-agent="",NTV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 tvg-id="Number1Ask.tr":http-referrer="":http-user-agent="",Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Damar.tr":http-referrer="":http-user-agent="",Number 1 Damar (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Dance.tr":http-referrer="":http-user-agent="",Number 1 Dance (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-id="":http-referrer="":http-user-agent="",Ogün TV (360p)
+https://s01.vpis.io/ogun/ogun.m3u8
+#EXTINF:-1 tvg-id="OlayTurkTV.tr":http-referrer="":http-user-agent="",OlayTürk Kayseri (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 tvg-id="On4TV.tr":http-referrer="":http-user-agent="",On4 TV (1080p)
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="On6.tr":http-referrer="":http-user-agent="",On 6 (1080p)
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerDance.tr":http-referrer="":http-user-agent="",Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerLove.tr":http-referrer="":http-user-agent="",Power Love (1080p)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr":http-referrer="":http-user-agent="",Power Turk (1080p) [Not 24/7]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr":http-referrer="":http-user-agent="",Power Türk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr":http-referrer="":http-user-agent="",Power Türk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr":http-referrer="":http-user-agent="",Power Türk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTV.tr":http-referrer="":http-user-agent="",Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr":http-referrer="":http-user-agent="",PowerTürk TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="QafTV.tr":http-referrer="":http-user-agent="",Qaf TV (1080p)
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RehberTV.tr":http-referrer="":http-user-agent="",Rehber TV (720p)
+https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+#EXTINF:-1 tvg-id="SariyerTV.tr":http-referrer="":http-user-agent="",Sarıyer TV (360p)
+https://s01.vpis.io/sariyer/sariyer.m3u8
+#EXTINF:-1 tvg-id="Sat7Pars.cy":http-referrer="":http-user-agent="",Sat7 Pars (1080p)
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat7Turk.cy":http-referrer="":http-user-agent="",Sat7 Türk (1080p)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BricveSatrancTV.tr":http-referrer="":http-user-agent="",Satranç TV (480p) [Not 24/7]
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 tvg-id="SemerkandTV.tr":http-referrer="":http-user-agent="",Semerkand TV (1080p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr":http-referrer="":http-user-agent="",Show Turk
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr":http-referrer="":http-user-agent="",Show TV
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:-1 tvg-id="SinopYildizTV.tr":http-referrer="":http-user-agent="",Sinop Yildiz TV (360p)
+https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1 tvg-id="SportsTV.tr":http-referrer="":http-user-agent="",Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr":http-referrer="":http-user-agent="",Star TV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.tr":http-referrer="":http-user-agent="",Syria TV (1080p)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TarimTV.tr":http-referrer="":http-user-agent="",Tarim TV (1080p)
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+#EXTINF:-1 tvg-id="TatlisesTV.tr":http-referrer="":http-user-agent="",Tatlises TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:-1 tvg-id="TBMMTV.tr":http-referrer="":http-user-agent="",TBMM TV (720p)
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-id="TekRumeliTV.tr":http-referrer="":http-user-agent="",Tek Rumeli TV (576p)
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="TempoTV.tr":http-referrer="":http-user-agent="",Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr":http-referrer="":http-user-agent="",Teve2 (1080p)
+https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr":http-referrer="":http-user-agent="",TGRT Belgesel TV (576p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr":http-referrer="":http-user-agent="",TGRT Haber (360p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tivi6.tr":http-referrer="":http-user-agent="",Tivi 6 (720p)
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-id="TonTV.tr":http-referrer="":http-user-agent="",Ton TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:-1 tvg-id="24TV.tr":http-referrer="":http-user-agent="",TR24 TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr":http-referrer="":http-user-agent="",TRT 1 (1080p)
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr":http-referrer="":http-user-agent="",TRT 1 (1080p) [Geo-blocked]
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr":http-referrer="":http-user-agent="",TRT 1 (720p)
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr":http-referrer="":http-user-agent="",TRT 2
+https://trt2.blutv.com/blutv_trt2/live.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr":http-referrer="":http-user-agent="",TRT 2 (720p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTArabi.tr":http-referrer="":http-user-agent="",TRT Arabi (1080p) [Not 24/7]
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTAvaz.tr":http-referrer="":http-user-agent="",TRT Avaz (720p)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr":http-referrer="":http-user-agent="",TRT Belgesel (720p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr":http-referrer="":http-user-agent="",TRT Çocuk (720p)
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr":http-referrer="":http-user-agent="",TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBALise.tr":http-referrer="":http-user-agent="",TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr":http-referrer="":http-user-agent="",TRT EBA Ortaokul (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr":http-referrer="":http-user-agent="",TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi.tr":http-referrer="":http-user-agent="",TRT Kurdî (720p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr":http-referrer="":http-user-agent="",TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr":http-referrer="":http-user-agent="",TRT Spor (720p) [Geo-blocked]
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr":http-referrer="":http-user-agent="",TRT Spor Yildiz (720p) [Geo-blocked]
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr":http-referrer="":http-user-agent="",TRT Turk
+https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr":http-referrer="":http-user-agent="",TRT Türk (720p)
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr":http-referrer="":http-user-agent="",TRT World (1080p) [Not 24/7]
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr":http-referrer="":http-user-agent="",TRT World (1080p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TurkHaberTV.tr":http-referrer="":http-user-agent="",TürkHaber (720p)
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1.tr":http-referrer="":http-user-agent="",TV 1 (720p)
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.tr":http-referrer="":http-user-agent="",TV4 (720p)
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="TV8.tr":http-referrer="":http-user-agent="",TV 8 (1080p) [Not 24/7]
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="TV41.tr":http-referrer="":http-user-agent="",TV 41 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV41.tr":http-referrer="":http-user-agent="",TV 41 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
+#EXTINF:-1 tvg-id="TV41.tr":http-referrer="":http-user-agent="",TV 41 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV52.tr":http-referrer="":http-user-agent="",TV 52 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV100.tr":http-referrer="":http-user-agent="",TV 100 (720p)
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+#EXTINF:-1 tvg-id="TV264.tr":http-referrer="":http-user-agent="",TV 264 (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDen.tr":http-referrer="":http-user-agent="",TV Den (576p) [Not 24/7]
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVEm.tr":http-referrer="":http-user-agent="",TV Em (486p)
+https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEm.tr":http-referrer="":http-user-agent="",TV Em (486p)
+https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVNET.tr":http-referrer="":http-user-agent="",TVnet (720p)
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 tvg-id="UlusalKanal.tr":http-referrer="":http-user-agent="",Ulusal Kanal (720p)
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+#EXTINF:-1 tvg-id="UniversiteTV.tr":http-referrer="":http-user-agent="",Üniversite TV (720p) [Not 24/7]
+https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
+#EXTINF:-1 tvg-id="UUTV1.tr":http-referrer="":http-user-agent="",ÜÜ TV 1 (1080p)
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
+#EXTINF:-1 tvg-id="UUTV2.tr":http-referrer="":http-user-agent="",ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7]
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+#EXTINF:-1 tvg-id="Vizyon58TV.tr":http-referrer="":http-user-agent="",Vizyon 58 TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV.tr":http-referrer="":http-user-agent="",VTV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 tvg-id="VuslatTV.tr":http-referrer="":http-user-agent="",Vuslat TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+#EXTINF:-1 tvg-id="WomanTV.tr":http-referrer="":http-user-agent="",Woman TV (1080p)
+https://embedlp.becdn.net/womantv.m3u8
+#EXTINF:-1 tvg-id="YOLTV.de":http-referrer="":http-user-agent="",Yol TV (720p)
+https://stream.yol.tv:9443/medialive/yol.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.tr":http-referrer="":http-user-agent="",Zarok TV (720p)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
